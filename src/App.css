@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: #181a1b;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+  width: 300px;
+}
+
+.buttonAnswer, .buttonNext, .buttonJoin {
+  background-color: #181a1b;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.buttonAnswer, .buttonNext, .buttonJoin {
+  transition-duration: 0.4s;
+}
+
+.buttonAnswer:hover, .buttonNext:hover, .buttonJoin:hover {
+  background-color: gray;
+  color: white;
+}
+
+.text {
+  font-size: 35px;
+}
+
+.loginInput {
+  font-size: 20px;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+  width: 150px;
+  height: 50px;
+}
+
+.question, .waiting {
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 75px;
+  width: 500px;
+  height: 250px;
+}

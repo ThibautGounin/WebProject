@@ -1,0 +1,1087 @@
+{
+  "fournisseur": "OpenQuizzDB - Fournisseur de contenu libre (https://www.openquizzdb.org)",
+  "rédacteur": "Philippe Bresoux",
+  "thème": "Culture générale (Tout sur tout)",
+  "quizz": [
+      {
+        "id": 1,
+        "question": "Quel film à succès a réuni sur les écrans Sean Connery et Christophe Lambert ?",
+        "propositions": [
+          "Subway",
+          "Mad Max",
+          "Greystoke",
+          "Highlander"
+        ],
+        "réponse": "Highlander",
+        "anecdote": "'A Kind of Magic' est un album du groupe Queen, sorti en juin 1986, dont six de ses neuf morceaux sont utilisés dans le film 'Highlander'."
+      },
+      {
+        "id": 2,
+        "question": "Quel pays, dont les premiers habitants étaient des Newars, a pour capitale Katmandou ?",
+        "propositions": [
+          "Corée du Nord",
+          "Népal",
+          "Tibet",
+          "Pakistan"
+        ],
+        "réponse": "Népal",
+        "anecdote": "Katmandou est la capitale politique et religieuse du Népal ainsi que la plus grande ville du pays."
+      },
+      {
+        "id": 3,
+        "question": "Dans quel film John Travolta incarne-t-il un ange tombé du ciel ?",
+        "propositions": [
+          "Sam",
+          "Johnny",
+          "Jerry",
+          "Michael"
+        ],
+        "réponse": "Michael",
+        "anecdote": "Dans le film 'Michael', deux journalistes enquêtent sur un soi-disant vrai ange vivant chez une dame âgée."
+      },
+      {
+        "id": 4,
+        "question": "Pour quel auteur-compositeur-interprète français aux 40 millions de disques vendus Capri est-il fini ?",
+        "propositions": [
+          "Salvatore Adamo",
+          "Serge Lama",
+          "Charles Aznavour",
+          "Hervé Vilard"
+        ],
+        "réponse": "Hervé Vilard",
+        "anecdote": "Didier Barbelivien, Michel Fugain et Danyel Gérard ont fait partie de la liste des artistes qui ont composé pour Hervé Vilard."
+      },
+      {
+        "id": 5,
+        "question": "Quel peintre, né en 1844, est également appelé par beaucoup le Douanier ?",
+        "propositions": [
+          "Edgar Degas",
+          "Henri Rousseau",
+          "Salvador Dali",
+          "Pablo Picasso"
+        ],
+        "réponse": "Henri Rousseau",
+        "anecdote": "Le premier portrait connu réalisé par le peintre Henri Rousseau semble être celui de sa première femme."
+      },
+      {
+        "id": 6,
+        "question": "Quel personnage imaginaire fut popularisé par le roman de E.R. Burroughs et par le cinéma ?",
+        "propositions": [
+          "Tarzan",
+          "Le Yéti",
+          "Nessie",
+          "King-Kong"
+        ],
+        "réponse": "Tarzan",
+        "anecdote": "Edgar Rice Burroughs a inspiré bon nombre d'auteurs de science-fiction et de fantastique ainsi que de nombreux réalisateurs du cinéma."
+      },
+      {
+        "id": 7,
+        "question": "Quelle est la seule valeur à la roulette à porter la couleur verte ?",
+        "propositions": [
+          "Quarante",
+          "Treize",
+          "Cinquante",
+          "Zéro"
+        ],
+        "réponse": "Zéro",
+        "anecdote": "À la roulette, lorsque le croupier donne la main, chaque joueur mise sur un numéro qu'il espère être tiré pour remporter la mise."
+      },
+      {
+        "id": 8,
+        "question": "Quelle est la race du chien de Columbo, l'inspecteur très obstiné et perspicace de la télévision ?",
+        "propositions": [
+          "Basset",
+          "Barbet",
+          "Bichon",
+          "Beagle"
+        ],
+        "réponse": "Basset",
+        "anecdote": "Interrompue en 1978, la série télévisée 'Columbo' a été ressuscitée en 1989, toujours avec Peter Falk dans le rôle principal."
+      },
+      {
+        "id": 9,
+        "question": "Quelle est la plus petite unité de mémoire utilisable sur un ordinateur ?",
+        "propositions": [
+          "Byte",
+          "Giga",
+          "Bit",
+          "Méga"
+        ],
+        "réponse": "Bit",
+        "anecdote": "La mémoire est un composant matériel essentiel de nombreux appareils électroniques, présent dans tous les ordinateurs et consoles."
+      },
+      {
+        "id": 10,
+        "question": "Dans le langage familier, comment appelle-t-on la dent du petit enfant ?",
+        "propositions": [
+          "Quenotte",
+          "Menotte",
+          "Marmotte",
+          "Bouillotte"
+        ],
+        "réponse": "Quenotte",
+        "anecdote": "Il est particulièrement important de bien se brosser les dents de manière régulière si l'on veut éviter la prolifération de caries dans la bouche."
+      },
+      {
+        "id": 11,
+        "question": "Où se situe la célèbre base navale américaine de Guantanamo, réputée pour sa sévérité ?",
+        "propositions": [
+          "Cuba",
+          "Mexique",
+          "Paraguay",
+          "Hawaii"
+        ],
+        "réponse": "Cuba",
+        "anecdote": "La base de Guantanamo, très hautement sécurisée, détient des personnes et des individus qualifiés de combattants hors-la-loi."
+      },
+      {
+        "id": 12,
+        "question": "Quelle est la spécialité du sportif tunisien Oussama Mellouli ?",
+        "propositions": [
+          "Natation",
+          "Marathon",
+          "Boxe",
+          "Football"
+        ],
+        "réponse": "Natation",
+        "anecdote": "Oussama Mellouli est le premier champion olympique tunisien du milieu de la natation professionnelle à avoir remporté ce titre."
+      },
+      {
+        "id": 13,
+        "question": "Quel acteur français a remporté le premier rôle dans le film 'Le Guépard' ?",
+        "propositions": [
+          "Jean Gabin",
+          "Claude Brasseur",
+          "Alain Delon",
+          "Jean Reno"
+        ],
+        "réponse": "Alain Delon",
+        "anecdote": "Le film 'Le Guépard', mettant en scène l'acteur Alain Delon, décrit la chute de l'aristocratie italienne, dont la scène du bal donne la clé."
+      },
+      {
+        "id": 14,
+        "question": "Qui était le compagnon de Paul de Tarse, désigné aussi sous le nom de saint Paul ?",
+        "propositions": [
+          "Saint Jean",
+          "Saint Marc",
+          "Saint Luc",
+          "Saint Matthieu"
+        ],
+        "réponse": "Saint Luc",
+        "anecdote": "Sans faire partie des Douze, Saint Paul a toutefois marqué le christianisme par son interprétation de l'enseignement de Jésus."
+      },
+      {
+        "id": 15,
+        "question": "Quel titre de noblesse est immédiatement inférieur à celui de comte ?",
+        "propositions": [
+          "Archiduc",
+          "Vicomte",
+          "Marquis",
+          "Duc"
+        ],
+        "réponse": "Vicomte",
+        "anecdote": "Vicomte est une distinction héréditaire que beaucoup revendiquent mais à laquelle ne sont attachés aucuns pouvoirs."
+      },
+      {
+        "id": 16,
+        "question": "Quelle est la capitale de la Nouvelle-Zélande, pays d'Océanie au sud-ouest de l'océan Pacifique ?",
+        "propositions": [
+          "Dublin",
+          "Auckland",
+          "Wellington",
+          "Sydney"
+        ],
+        "réponse": "Wellington",
+        "anecdote": "Troisième ville la plus peuplée du pays, Wellington fait statistiquement partie des douze meilleures villes dans laquelle vivre."
+      },
+      {
+        "id": 17,
+        "question": "Quel film a réuni sur les écrans Isabelle Adjani et Sharon Stone ?",
+        "propositions": [
+          "Ange et Démon",
+          "Les sorcières",
+          "Les ensorceleuses",
+          "Diabolique"
+        ],
+        "réponse": "Diabolique",
+        "anecdote": "Dans le film 'Diabolique', la femme et la maîtresse d'un professeur s'associent pour planifier son assassinat."
+      },
+      {
+        "id": 18,
+        "question": "Comment est également appelée la Transat Jacques Vabre ?",
+        "propositions": [
+          "Route du café",
+          "Route du rhum",
+          "Vendée Globe",
+          "Trophée du rhum"
+        ],
+        "réponse": "Route du café",
+        "anecdote": "La Transat Jacques Vabre ou route du café, course transatlantique en double, se déroule tous les deux ans depuis 1993."
+      },
+      {
+        "id": 19,
+        "question": "Quel oiseau vivant dans l'hémisphère nord nage le plus vite ?",
+        "propositions": [
+          "Pingouin",
+          "Martinet",
+          "Pie",
+          "Bécassine"
+        ],
+        "réponse": "Pingouin",
+        "anecdote": "Par abus de langage, le pingouin est souvent confondu avec le manchot, de par sa ressemblance avec le Grand Pingouin."
+      },
+      {
+        "id": 20,
+        "question": "Quelle est la plus grosse des planètes de notre Système solaire ?",
+        "propositions": [
+          "Uranus",
+          "Saturne",
+          "Jupiter",
+          "Neptune"
+        ],
+        "réponse": "Jupiter",
+        "anecdote": "Jupiter est une planète géante gazeuse, la plus grosse planète du Système solaire."
+      },
+      {
+        "id": 21,
+        "question": "Apparu il y a 450 millions d'années, à quelle classe animale le scorpion appartient-il ?",
+        "propositions": [
+          "Arachnides",
+          "Reptiles",
+          "Mammifères",
+          "Insectes"
+        ],
+        "réponse": "Arachnides",
+        "anecdote": "Les scorpions se distinguent des araignées par un aiguillon venimeux situé au bout de leur abdomen pouvant être mortel pour l'homme."
+      },
+      {
+        "id": 22,
+        "question": "Quel frère d'une actrice prénommée Mary a réalisé le film 'La fièvre du samedi soir' ?",
+        "propositions": [
+          "John Remezick",
+          "John Badham",
+          "John Travolta",
+          "John Payne"
+        ],
+        "réponse": "John Badham",
+        "anecdote": "'La fièvre du samedi soir', réalisé par John Badham, fut un des principaux vecteurs de diffusion de la musique et de la mode disco."
+      },
+      {
+        "id": 23,
+        "question": "Au Moyen Âge, comment appelait-on un village fortifié ?",
+        "propositions": [
+          "Rempart",
+          "Château fort",
+          "Tour",
+          "Bastide"
+        ],
+        "réponse": "Bastide",
+        "anecdote": "De nos jours, les bastides les plus connues sont celles de Monflanquin, Monpazier, Grenade ou bien encore Libourne."
+      },
+      {
+        "id": 24,
+        "question": "Quelle ville du Kent est célèbre pour sa source miraculeuse ?",
+        "propositions": [
+          "Tunbridge Wells",
+          "Dartford",
+          "Gillingham",
+          "Ramsgate"
+        ],
+        "réponse": "Tunbridge Wells",
+        "anecdote": "Comme la reine Victoria, de nombreuses personnes célèbres sont venues en cure à Tunbridge Wells profiter de sa source miraculeuse."
+      },
+      {
+        "id": 25,
+        "question": "Quel apéritif à base de vin est aromatisé avec des plantes amères et toniques ?",
+        "propositions": [
+          "Kokebok",
+          "Gentiane",
+          "Vermouth",
+          "Piccolo"
+        ],
+        "réponse": "Vermouth",
+        "anecdote": "Dans une classification du plus sec au plus doux, on trouve le vermouth sec, le blanc, le rosé et le rouge."
+      },
+      {
+        "id": 26,
+        "question": "À quel écrivain, membre de l'Académie française, doit-on le roman intitulé 'Le sagouin' ?",
+        "propositions": [
+          "Giono",
+          "Camus",
+          "Barjavel",
+          "Mauriac"
+        ],
+        "réponse": "Mauriac",
+        "anecdote": "Dans le roman 'Le sagouin', écrit en quatre parties, on peut supposer que l'action se passe vers 1920."
+      },
+      {
+        "id": 27,
+        "question": "Quel président Français trouva la mort dans une situation inhabituelle ?",
+        "propositions": [
+          "Georges Pompidou",
+          "René Coty",
+          "Raymond Poincaré",
+          "Félix Faure"
+        ],
+        "réponse": "Félix Faure",
+        "anecdote": "Suite à ce décès inopiné, on a souvent dit de Félix Faure qu'il était un président plus célèbre par sa mort que par sa vie."
+      },
+      {
+        "id": 28,
+        "question": "Comment appelle-t-on le versant de la montagne non situé au soleil ?",
+        "propositions": [
+          "Adret",
+          "Ressac",
+          "Étant",
+          "Ubac"
+        ],
+        "réponse": "Ubac",
+        "anecdote": "Dans l'hémisphère Nord, l'ubac est généralement la face Nord d'une montagne alors que l'adret en représente la face Sud."
+      },
+      {
+        "id": 29,
+        "question": "Quel oiseau palmipède a pour particularité de construire un nid flottant ?",
+        "propositions": [
+          "Grève",
+          "Grèle",
+          "Grèbe",
+          "Grène"
+        ],
+        "réponse": "Grèbe",
+        "anecdote": "La position des pattes, très courtes et très en arrière par rapport au corps, a valu au grèbe le joli nom de pieds au derrière."
+      },
+      {
+        "id": 30,
+        "question": "Un bédane, qui doit son nom à sa ressemblance avec un bec de canard, est un outil proche du...",
+        "propositions": [
+          "Maillet",
+          "Vilebrequin",
+          "Ciseau à bois",
+          "Rabot"
+        ],
+        "réponse": "Ciseau à bois",
+        "anecdote": "Le bédane est un outil encore parfois utilisé aujourd'hui pour réaliser des pièces en bois tournées entre pointes."
+      },
+      {
+        "id": 31,
+        "question": "Que jette-t-on sur le ring en cas d'abandon durant un match de boxe ?",
+        "propositions": [
+          "Gant",
+          "Protège-dents",
+          "Culotte",
+          "Éponge"
+        ],
+        "réponse": "Éponge",
+        "anecdote": "Durant un match, l'arbitre est le garant principal de la sécurité des boxeurs et peut sanctionner les gestes interdits et dangereux."
+      },
+      {
+        "id": 32,
+        "question": "Quelle espèce d'oiseaux encore présente en Europe gringotte, quiritte ou trille ?",
+        "propositions": [
+          "Perroquet",
+          "Corbeau",
+          "Moineau",
+          "Rossignol"
+        ],
+        "réponse": "Rossignol",
+        "anecdote": "Son chant des plus mélodieux et des plus complexes a fasciné les chercheurs qui ont dénombré 260 séquences différentes."
+      },
+      {
+        "id": 33,
+        "question": "Qui est devenu célèbre grâce au 'Poinçonneur des Lilas' sorti en 1958 ?",
+        "propositions": [
+          "Serge Gainsbourg",
+          "Charles Trenet",
+          "Boris Vian",
+          "Johnny Hallyday"
+        ],
+        "réponse": "Serge Gainsbourg",
+        "anecdote": "Un scopitone a été réalisé pour l'occasion par Jean Bacqué, produit par Pathé, montrant Gainsbourg dans le métro parisien."
+      },
+      {
+        "id": 34,
+        "question": "Laquelle de ces professions ne peut-on associer au grand Léonard de Vinci ?",
+        "propositions": [
+          "Auteur dramatique",
+          "Peintre",
+          "Botaniste",
+          "Sculpteur"
+        ],
+        "réponse": "Auteur dramatique",
+        "anecdote": "Léonard de Vinci, génie universel, est souvent décrit comme l'archétype et le symbole de l'homme de la Renaissance."
+      },
+      {
+        "id": 35,
+        "question": "Fils de Laïos et de Jocaste, qui dipe a-t-il tué dans la mythologie grecque ?",
+        "propositions": [
+          "Son fils",
+          "Sa mère",
+          "Son père",
+          "Sa fille"
+        ],
+        "réponse": "Son père",
+        "anecdote": "dipe est connu pour avoir résolu l'énigme du sphinx et pour s'être rendu involontairement coupable de parricide et d'inceste."
+      },
+      {
+        "id": 36,
+        "question": "En France, à la Libération, combien de personnes se retrouvèrent à Notre-Dame de Paris ?",
+        "propositions": [
+          "13 000",
+          "17 000",
+          "5 000",
+          "9 000"
+        ],
+        "réponse": "13 000",
+        "anecdote": "Le général de Gaulle a descendu le 26 août l'Arc de Triomphe vers Notre-Dame pour un office religieux après la libération de Paris."
+      },
+      {
+        "id": 37,
+        "question": "En quelle année a été bu le premier Coca-Cola concocté par John Pemberton ?",
+        "propositions": [
+          "1886",
+          "1906",
+          "1946",
+          "1926"
+        ],
+        "réponse": "1886",
+        "anecdote": "Contrairement à la chronologie officielle de l'entreprise, Coca-Cola ne s'est pas implantée en France en 1933, mais bien en 1919."
+      },
+      {
+        "id": 38,
+        "question": "Dans quelle ville se sont déroulés les Jeux olympiques de 1900 ?",
+        "propositions": [
+          "Athènes",
+          "Los Angeles",
+          "Rome",
+          "Paris"
+        ],
+        "réponse": "Paris",
+        "anecdote": "Aucune cérémonie d'ouverture ou de fermeture ne fut au programme, excepté un défilé des gymnastes à Vincennes."
+      },
+      {
+        "id": 39,
+        "question": "À quelle substance naturelle ou synthétique la pénicilline est-elle associée ?",
+        "propositions": [
+          "Anesthésique",
+          "Soporifique",
+          "Analgésique",
+          "Antibiotique"
+        ],
+        "réponse": "Antibiotique",
+        "anecdote": "À la base, la pénicilline est une toxine inoffensive pour l'homme synthétisée par certaines espèces de moisissures."
+      },
+      {
+        "id": 40,
+        "question": "Quel prix Nobel Winston Leonard Spencer-Churchill a-t-il reçu en 1953 ?",
+        "propositions": [
+          "Littérature",
+          "Physique",
+          "Paix",
+          "Chimie"
+        ],
+        "réponse": "Littérature",
+        "anecdote": "Winston Churchill reste à ce jour l'unique ancien Premier ministre britannique à avoir reçu, en 1953, le prix Nobel de littérature."
+      },
+      {
+        "id": 41,
+        "question": "'Le train sifflera trois fois' est un western américain de quel réalisateur ?",
+        "propositions": [
+          "Fred Zinnemann",
+          "John Ford",
+          "George Stevens",
+          "Vincente Minnelli"
+        ],
+        "réponse": "Fred Zinnemann",
+        "anecdote": "L'album de Lucky Luke intitulé 'Les Dalton à la noce' reprend la trame scénaristique générale et quelques passages-clés du film."
+      },
+      {
+        "id": 42,
+        "question": "En quelle année a-t-on pu assister à l'inauguration du métro parisien ?",
+        "propositions": [
+          "1840",
+          "1880",
+          "1860",
+          "1900"
+        ],
+        "réponse": "1900",
+        "anecdote": "La métro de Paris comporte à ce jour seize lignes en site propre, essentiellement souterraines, totalisant près de 220 kilomètres."
+      },
+      {
+        "id": 43,
+        "question": "Quel écrivain et journaliste littéraire français fut surnommé le taureau normand ?",
+        "propositions": [
+          "Guy de Maupassant",
+          "Alfred de Musset",
+          "Victor Hugo",
+          "Honoré de Balzac"
+        ],
+        "réponse": "Guy de Maupassant",
+        "anecdote": "C'est un de ses biographes, Paul Morand, qui comparera ce Maupassant au physique robuste et athlétique à un taureau."
+      },
+      {
+        "id": 44,
+        "question": "À quel autre objet peut-on associer le paléophone inventé par Charles Cross ?",
+        "propositions": [
+          "Disque à sillon",
+          "Émetteur",
+          "Poste de radio",
+          "Téléphone"
+        ],
+        "réponse": "Disque à sillon",
+        "anecdote": "Faute de preuve, nul ne peut affirmer que Charles Cros ait pu réellement reproduire en 1877 le son qu'il avait réussi à enregistrer."
+      },
+      {
+        "id": 45,
+        "question": "Durant quel siècle les pins furent-ils plantés dans la forêt des Landes de Gascogne ?",
+        "propositions": [
+          "XVe siècle",
+          "XVIIe siècle",
+          "XIIIe siècle",
+          "XIXe siècle"
+        ],
+        "réponse": "XIXe siècle",
+        "anecdote": "D'une superficie de près d'un million d'hectares, la forêt des Landes est la plus grande forêt artificielle d'Europe occidentale."
+      },
+      {
+        "id": 46,
+        "question": "Monsieur Diafoirus est un médecin issu de l'imagination de quel dramaturge ?",
+        "propositions": [
+          "Rabelais",
+          "Corneille",
+          "Voltaire",
+          "Molière"
+        ],
+        "réponse": "Molière",
+        "anecdote": "'Le Malade imaginaire' est une comédie-ballet en trois actes représentée en 1673 et la dernière comédie écrite par Molière."
+      },
+      {
+        "id": 47,
+        "question": "Par rapport à la vitesse duquel de ces éléments le mètre peut-il se définir ?",
+        "propositions": [
+          "Son",
+          "Eau",
+          "Lumière",
+          "Vent"
+        ],
+        "réponse": "Lumière",
+        "anecdote": "La valeur du mètre est définie comme la distance parcourue par la lumière dans le vide en 1/299 792 458 de seconde."
+      },
+      {
+        "id": 48,
+        "question": "Auquel de ces politiciens français Lénine aurait-il pu expliquer la révolution ?",
+        "propositions": [
+          "Raymond Barre",
+          "Jacques Chirac",
+          "Georges Marchais",
+          "Robert Hue"
+        ],
+        "réponse": "Georges Marchais",
+        "anecdote": "Lénine est à l'origine de la Tchéka, police politique chargée d'éliminer tous les ennemis du nouveau régime qu'il met en place."
+      },
+      {
+        "id": 49,
+        "question": "La perle à abdomen remarquable ou plécoptère est en fait...",
+        "propositions": [
+          "Une fleur",
+          "Un oiseau",
+          "Un insecte",
+          "Un coquillage"
+        ],
+        "réponse": "Un insecte",
+        "anecdote": "Les Plécoptères sont appelés mouches de pierre car ils se posent très fréquemment sur les pierres en bordure de cours d'eau."
+      },
+      {
+        "id": 50,
+        "question": "Quel prolifique compositeur français est mort à Paris en 1918 ?",
+        "propositions": [
+          "Édouard Lalo",
+          "Georges Bizet",
+          "Claude Debussy",
+          "Hector Berlioz"
+        ],
+        "réponse": "Claude Debussy",
+        "anecdote": "Une part importante de l'uvre de Claude Debussy est pour piano et utilise une palette sonore particulièrement riche et évocatrice."
+      },
+      {
+        "id": 51,
+        "question": "Pour quelle profession la ville de Crémone, située dans le nord de l'Italie, est-elle célèbre ?",
+        "propositions": [
+          "Luthier",
+          "Sabotier",
+          "Potier",
+          "Peintre"
+        ],
+        "réponse": "Luthier",
+        "anecdote": "La ville est la patrie d'Antonio Giacomo Stradivari, dit Stradivarius, fabricant de violons, de violoncelles, d'altos et de guitares."
+      },
+      {
+        "id": 52,
+        "question": "Autrefois, la phtisie désignait une des formes de quelle maladie ?",
+        "propositions": [
+          "Tuberculose",
+          "Syphilis",
+          "Asthme",
+          "Lèpre"
+        ],
+        "réponse": "Tuberculose",
+        "anecdote": "La tuberculose est une maladie contagieuse infectieuse causée par une bactérie, avec des signes cliniques variables."
+      },
+      {
+        "id": 53,
+        "question": "Par quel pays Macao a-t-elle été colonisée et administrée durant plus de 400 ans ?",
+        "propositions": [
+          "Angleterre",
+          "Portugal",
+          "Espagne",
+          "Allemagne"
+        ],
+        "réponse": "Portugal",
+        "anecdote": "La ville de Macao est considérée comme le dernier comptoir ainsi que la dernière colonie européenne en Chine et en Asie."
+      },
+      {
+        "id": 54,
+        "question": "Lequel de ces écrivains avait 40 ans à la naissance de Gustave Flaubert ?",
+        "propositions": [
+          "Balzac",
+          "Stendhal",
+          "Favre",
+          "Hugo"
+        ],
+        "réponse": "Balzac",
+        "anecdote": "Gustave Flaubert a marqué la littérature par la profondeur de ses analyses psychologiques et son souci de réalisme."
+      },
+      {
+        "id": 55,
+        "question": "Comment peut-on littéralement traduire le terme république d'Albanie ?",
+        "propositions": [
+          "Pays des morts",
+          "Pays des chevaux",
+          "Pays des vivants",
+          "Pays des aigles"
+        ],
+        "réponse": "Pays des aigles",
+        "anecdote": "Le pays a un régime politique de type démocratie parlementaire, sa capitale est Tirana et sa langue officielle est l'albanais."
+      },
+      {
+        "id": 56,
+        "question": "Dans quel état se trouve la prison américaine de Sing Sing, située sur les rives de l'Hudson ?",
+        "propositions": [
+          "Texas",
+          "Alabama",
+          "New York",
+          "Géorgie"
+        ],
+        "réponse": "New York",
+        "anecdote": "La prison de Sing Sing est classée comme établissement de sécurité maximale et a été le lieu, avant 2004, d'exécutions capitales."
+      },
+      {
+        "id": 57,
+        "question": "Quelle est probablement la rencontre la plus célèbre de Camp David en 1978 ?",
+        "propositions": [
+          "Nixon-Brejnev",
+          "Reagan-Thatcher",
+          "Clinton-Arafat",
+          "Sadate-Begin"
+        ],
+        "réponse": "Sadate-Begin",
+        "anecdote": "Le Camp David, d'une superficie de 50 hectares dans le Maryland, est le lieu de villégiature officiel du président des États-Unis."
+      },
+      {
+        "id": 58,
+        "question": "Dans quel journal est paru le célèbre 'J'accuse... !' d'Émile Zola ?",
+        "propositions": [
+          "Pravda",
+          "Aurore",
+          "Humanité",
+          "Figaro"
+        ],
+        "réponse": "Aurore",
+        "anecdote": "Rédigé au cours de l'affaire Dreyfus, cet article est paru sous la forme d'une lettre ouverte au président français Félix Faure."
+      },
+      {
+        "id": 59,
+        "question": "Dans quel pays coule le Shannon, traversant des successions interminables de lacs ?",
+        "propositions": [
+          "Canada",
+          "Israël",
+          "Irlande",
+          "États-Unis"
+        ],
+        "réponse": "Irlande",
+        "anecdote": "Les 386 kilomètres du fleuve Shannon en font le plus long cours d'eau des Îles Britanniques et le plus abondant par son débit."
+      },
+      {
+        "id": 60,
+        "question": "Quel philosophe français habitait 10 rue Monsieur-le-Prince à Paris ?",
+        "propositions": [
+          "Pierre Leroux",
+          "Marcel Proust",
+          "Anatole France",
+          "Auguste Comte"
+        ],
+        "réponse": "Auguste Comte",
+        "anecdote": "Auguste Comte fut le secrétaire particulier puis collaborateur du comte de Saint-Simon, fondateur du mouvement saint-simonien."
+      },
+      {
+        "id": 61,
+        "question": "Quel arbre est connu pour atteindre les volumes les plus importants ?",
+        "propositions": [
+          "Le hêtre",
+          "Le pin",
+          "Le chêne",
+          "Le séquoia"
+        ],
+        "réponse": "Le séquoia",
+        "anecdote": "Le séquoia géant a une croissance rapide annuelle moyenne de cinquante cm dans ses premières années, puis un mètre par an."
+      },
+      {
+        "id": 62,
+        "question": "Quelles sont les trois couleurs fondamentales pour le peintre ?",
+        "propositions": [
+          "Blanc, bleu et rouge",
+          "Rouge, bleu et jaune",
+          "Vert, rouge et jaune",
+          "Rouge, bleu et vert"
+        ],
+        "réponse": "Rouge, bleu et jaune",
+        "anecdote": "La couleur et la tonalité sont l'essence même de la peinture, comme le sont la hauteur et le rythme pour la musique."
+      },
+      {
+        "id": 63,
+        "question": "Dans quelle ville peut-on admirer le très touristique pont des Soupirs ?",
+        "propositions": [
+          "Prague",
+          "Avignon",
+          "Londres",
+          "Venise"
+        ],
+        "réponse": "Venise",
+        "anecdote": "Le pont des Soupirs, suggérant le soupir des prisonniers, est l'un des lieux touristiques les plus célèbres de Venise."
+      },
+      {
+        "id": 64,
+        "question": "Quel métier exerçait le sportif argentin Juan Manuel Fangio ?",
+        "propositions": [
+          "Boxeur",
+          "Pilote",
+          "Coureur",
+          "Nageur"
+        ],
+        "réponse": "Pilote",
+        "anecdote": "Juan Manuel Fangio a littéralement dominé la discipline reine du sport automobile dans les années cinquante."
+      },
+      {
+        "id": 65,
+        "question": "Quelle personne a pour mission principale de gérer un site internet ?",
+        "propositions": [
+          "Un websiter",
+          "Un webcleaner",
+          "Un webcontroler",
+          "Un webmaster"
+        ],
+        "réponse": "Un webmaster",
+        "anecdote": "Un webmaster est un professionnel d'internet entendu comme responsable d'un site web, de sa conception à sa maintenance."
+      },
+      {
+        "id": 66,
+        "question": "Avant de devenir chevalier, quel est le rang pour un apprenti Jedi ?",
+        "propositions": [
+          "Jawas",
+          "Hutts",
+          "Padawan",
+          "Novice"
+        ],
+        "réponse": "Padawan",
+        "anecdote": "Les chevaliers Jedi du monde de la saga 'Star Wars' forment un ordre d'individus qui maîtrisent la « Force »."
+      },
+      {
+        "id": 67,
+        "question": "Dans quelle aventure Tintin se retrouve-t-il face à un impressionnant Yeti ?",
+        "propositions": [
+          "Tintin au Congo",
+          "Coke en Stock",
+          "Tintin au Tibet",
+          "Le Lotus bleu"
+        ],
+        "réponse": "Tintin au Tibet",
+        "anecdote": "Le film 'La Neige en deuil', d'Edward Dmytryk, comporte des séquences qui ont probablement dû marquer la mémoire d'Hergé."
+      },
+      {
+        "id": 68,
+        "question": "Comment se prénomment les frères de William et Averell Dalton dans 'Lucky Luke' ?",
+        "propositions": [
+          "Jack et Jim",
+          "John et Joe",
+          "Joe et Jack",
+          "Jim et John"
+        ],
+        "réponse": "Joe et Jack",
+        "anecdote": "Les frères Dalton ont inspiré maintes histoires, dont la bande dessinée 'Lucky Luke' de Morris et de René Goscinny."
+      },
+      {
+        "id": 69,
+        "question": "Dans quel sport Rocco Francis Marchegiano dit « Rocky Marciano » était-il imbattable ?",
+        "propositions": [
+          "La boxe",
+          "Le catch",
+          "La natation",
+          "Le tennis"
+        ],
+        "réponse": "La boxe",
+        "anecdote": "Rocky Marciano est le premier boxeur blanc à avoir repris la couronne des poids lourds aux afro-américains en 1952."
+      },
+      {
+        "id": 70,
+        "question": "Quels muscles du corps humain peuvent être qualifiés de « tablettes de chocolat » ?",
+        "propositions": [
+          "Les triceps",
+          "Les adducteurs",
+          "Les biceps",
+          "Les abdominaux"
+        ],
+        "réponse": "Les abdominaux",
+        "anecdote": "Au nombre de cinq paires, les abdominaux sont des muscles qui s'étendent du thorax au bord supérieur du bassin."
+      },
+      {
+      "id": 71,
+      "question": "Durant quelle période Philippe Pétain assura-t-il le gouvernement de la France ?",
+      "propositions": [
+        "De 1941 à 1944",
+        "De 1941 à 1945",
+        "De 1939 à 1945",
+        "De 1940 à 1944"
+      ],
+      "réponse": "De 1940 à 1944",
+      "anecdote": "Militaire de carrière, le maréchal Pétain est généralement présenté comme le « vainqueur de la bataille de Verdun »."
+    },
+    {
+      "id": 72,
+      "question": "Quel est le prénom de Kate Winslet dans le film 'Titanic' de James Cameron ?",
+      "propositions": [
+        "Carla",
+        "Liz",
+        "Rose",
+        "Jeanne"
+      ],
+      "réponse": "Rose",
+      "anecdote": "'Titanic' est le second plus grand succès de l'histoire du cinéma après 'Avatar' (également réalisé par James Cameron)."
+    },
+    {
+      "id": 73,
+      "question": "Sur quelle espérance de vie moyenne une girafe peut-elle compter ?",
+      "propositions": [
+        "15 ans",
+        "75 ans",
+        "55 ans",
+        "25 ans"
+      ],
+      "réponse": "25 ans",
+      "anecdote": "Les Grecs pensaient que la girafe résultait de l'union du chameau et du léopard, d'où le nom scientifique 'camelopardalis'."
+    },
+    {
+      "id": 74,
+      "question": "Quel célèbre Claude a réalisé en 1985 le film 'Poulet au vinaigre' ?",
+      "propositions": [
+        "Claude Pieplu",
+        "Claude Berri",
+        "Claude Miller",
+        "Claude Chabrol"
+      ],
+      "réponse": "Claude Chabrol",
+      "anecdote": "Le film 'Poulet au vinaigre' a été tourné en quelques semaines seulement à Forges-les-Eaux avec un budget très réduit."
+    },
+    {
+      "id": 75,
+      "question": "Quel archipel appartenant au Portugal est constitué de neuf îles et de plusieurs îlots ?",
+      "propositions": [
+        "Les îles Caïman",
+        "Les Canaries",
+        "Les Açores",
+        "Les Baléares"
+      ],
+      "réponse": "Les Açores",
+      "anecdote": "L'origine volcanique de toutes les îles des Açores est démontrée par l'existence de très nombreux cônes de scories."
+    },
+    {
+      "id": 76,
+      "question": "En combien de provinces le Canada est-il divisé en plus des trois territoires fédéraux ?",
+      "propositions": [
+        "50 provinces",
+        "10 provinces",
+        "4 provinces",
+        "6 provinces"
+      ],
+      "réponse": "10 provinces",
+      "anecdote": "Les provinces sont des États fédérés possédant des pouvoirs souverains, indépendamment du gouvernement fédéral."
+    },
+    {
+      "id": 77,
+      "question": "Quelle faille des États-Unis est la cause de nombreux tremblements de terre ?",
+      "propositions": [
+        "San Francisco",
+        "Nouveau Mexique",
+        "Los Angeles",
+        "San Andreas"
+      ],
+      "réponse": "San Andreas",
+      "anecdote": "Le système des failles de San Andreas s'étend sur environ 1 300 kilomètres de long et 140 kilomètres de large."
+    },
+    {
+      "id": 78,
+      "question": "Quel groupe hollandais des années 1990 était composé de Ray et Anita ?",
+      "propositions": [
+        "2 Unlimited",
+        "Ace of base",
+        "Enigma",
+        "Scorpions"
+      ],
+      "réponse": "2 Unlimited",
+      "anecdote": "Le temps de leur contrat, le duo du groupe 2 Unlimited est devenu populaire à travers le monde durant cinq ans."
+    },
+    {
+      "id": 79,
+      "question": "Quel titre donnait-on à Simon Bolivar, général et homme d'État vénézuélien ?",
+      "propositions": [
+        "Conquistador",
+        "Volador",
+        "Dictator",
+        "Libertador"
+      ],
+      "réponse": "Libertador",
+      "anecdote": "Le bolivarisme est un courant politique que l'on retrouve en Amérique du Sud, se revendiquant de certaines idées de Bolivar."
+    },
+    {
+      "id": 80,
+      "question": "Qui a écrit et composé le deuxième album de Vanessa Paradis ?",
+      "propositions": [
+        "Johnny Depp",
+        "Lenny Kravitz",
+        "Serge Gainsbourg",
+        "Alain Bashung"
+      ],
+      "réponse": "Serge Gainsbourg",
+      "anecdote": "Vanessa Paradis, née en France en 1972, est la nièce de Didier Pain et la sur de l'actrice Alysson Paradis."
+    },
+    {
+        "id": 81,
+        "question": "Quelle est la couleur du cercle figurant sur le drapeau du Laos ?",
+        "propositions": [
+          "Bleue",
+          "Blanche",
+          "Jaune",
+          "Rouge"
+        ],
+        "réponse": "Blanche",
+        "anecdote": "Les montagnes et les plateaux du Laos, confinés au centre de la péninsule indochinoise, occupent plus de 70% de sa superficie."
+      },
+      {
+        "id": 82,
+        "question": "Hô-Chi-Minh-Ville est le nouveau nom de quel poumon économique ?",
+        "propositions": [
+          "Pékin",
+          "Tokyo",
+          "Saigon",
+          "Vientiane"
+        ],
+        "réponse": "Saigon",
+        "anecdote": "Située près du delta du Mékong, Hô-Chi-Minh-Ville est la métropole et la plus grande ville du sud du Viêt Nam."
+      },
+      {
+        "id": 83,
+        "question": "Dans quel pays les falaises de Moher sont-elles une attraction touristique ?",
+        "propositions": [
+          "Irlande",
+          "Grèce",
+          "Australie",
+          "Argentine"
+        ],
+        "réponse": "Irlande",
+        "anecdote": "Les falaises de Moher, qui s'élèvent jusqu'à 214m sur 8km, fascinent par leur beauté et leurs pentes vertigineuses."
+      },
+      {
+        "id": 84,
+        "question": "Qui débute un de ses romans par : « Longtemps, je me suis couché de bonne heure » ?",
+        "propositions": [
+          "Proust",
+          "Gide",
+          "Zola",
+          "Flaubert"
+        ],
+        "réponse": "Proust",
+        "anecdote": "uvre majeure en sept tomes, 'La Recherche' analysa d'une manière souvent impitoyable la société de son temps."
+      },
+      {
+        "id": 85,
+        "question": "Dans quel domaine est utilisé le terme « propylée », apparu bien avant Jésus-Christ ?",
+        "propositions": [
+          "En architecture",
+          "En généalogie",
+          "En littérature",
+          "En botanique"
+        ],
+        "réponse": "En architecture",
+        "anecdote": "À l'origine un vestibule conduisant à un sanctuaire, le plus célèbre exemple de propylée est celui de l'Acropole d'Athènes."
+      },
+      {
+        "id": 86,
+        "question": "De quelle plante de la famille des Liliacées le nom signifie-t-il « turban » en perse ?",
+        "propositions": [
+          "Le renoncule",
+          "La tulipe",
+          "La digitale",
+          "La jonquille"
+        ],
+        "réponse": "La tulipe",
+        "anecdote": "Les tulipes sont des plantes vivaces bulbeuses à tige longues, dures et solitaires, parfois tendues vers le haut."
+      },
+      {
+        "id": 87,
+        "question": "Qui a inspiré à Ian Fleming le nom de James Bond pour son célèbre personnage ?",
+        "propositions": [
+          "Un géologue",
+          "Un ornithologue",
+          "Un sportif",
+          "Un marin"
+        ],
+        "réponse": "Un ornithologue",
+        "anecdote": "Les nombreux romans mettant en scène le séduisant « agent 007 » ont connu un succès mondial, également au cinéma."
+      },
+      {
+        "id": 88,
+        "question": "Quelles festivités étaient célébrées à Sparte en hommage à Apollon ?",
+        "propositions": [
+          "Les Septéries",
+          "Les Thalysies",
+          "Les Karneia",
+          "Les Mounichies"
+        ],
+        "réponse": "Les Karneia",
+        "anecdote": "Ce sont les Karneia qui retardèrent l'arrivée des Spartiates à Marathon, ainsi que celle des renforts aux Thermopyles."
+      },
+      {
+        "id": 89,
+        "question": "Combien existe-t-il de manières différentes de commencer une partie aux échecs ?",
+        "propositions": [
+          "24",
+          "10",
+          "20",
+          "32"
+        ],
+        "réponse": "20",
+        "anecdote": "La composition échiquéenne, la forme artistique du jeu, a produit des milliers de problèmes dans de multiples genres."
+      },
+      {
+        "id": 90,
+        "question": "Quelle girafe en caoutchouc était destinée à être mordillée par les nourrissons en 1961 ?",
+        "propositions": [
+          "Noémie",
+          "Barbie",
+          "Mimie",
+          "Sophie"
+        ],
+        "réponse": "Sophie",
+        "anecdote": "La girafe Sophie connaît toujours un fort succès dans l'hexagone avec déjà plus de 816 000 exemplaires vendus en France."
+      }
+    ]
+  }
